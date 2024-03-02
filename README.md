@@ -9,6 +9,7 @@ Laravel optimized version of Aras cargo query services.
 ## Setup:
 
 - Create the class named ArasKargo.
+- Set your Aras cargo integration url, username, password and integration code.
 - Make sure you have SoapClient.
 
 <br>
@@ -44,6 +45,7 @@ Laravel optimized version of Aras cargo query services.
 ## Kurulum:
 
 - ArasKargo yapısını projenize ekleyin.
+- Aras kargo entegrasyon url, kullanıcı adı, şifre ve müşteri kodunuzu düzenleyin.
 - SoapClient kullanılabilir olduğunu kontrol edin.
 
 <br>
